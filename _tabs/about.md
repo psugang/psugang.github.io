@@ -80,8 +80,8 @@ order: 4
         <a href='https://quantumwavves.github.io'><sub><b>Quantum</b></sub></a><br>
         <a href="https://discordapp.com/users/690450705512661002" title="Discord contact"><img src="/assets/img/icons/discord.svg" width="25" height="25"/></a>
         <a href="https://www.facebook.com/quantumwavves" title="Facebook contact"><img src="/assets/img/icons/facebook.svg" width="20" height="20"/></a>
-        <a href="https://github.com/quantumwavves" title="Facebook contact"><img src="/assets/img/icons/github.svg" width="20" height="20"/></a>
-        <a href="https://quantumwavves.github.io" title="Facebook contact"><img src="/assets/img/icons/globe.svg" width="20" height="20"></a>
+        <a href="https://github.com/quantumwavves" title="Github profile"><img src="/assets/img/icons/github.svg" width="20" height="20"/></a>
+        <a href="https://quantumwavves.github.io" title="Website"><img src="/assets/img/icons/globe.svg" width="20" height="20"></a>
       </td>
     </tr>
   </tbody>
