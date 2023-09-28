@@ -328,7 +328,7 @@ authors: [logitg]
 > Precio sugerido: Max 100 Dolares
 {: .prompt-tip}
 
->Maximo recomendado: i5 13400 / i5 12600K
+>Maximo recomendado: Ryzen 5 5600X / 4650G / 3600XT
 {: .prompt-info }
 
 - Asrock A520M HVS
