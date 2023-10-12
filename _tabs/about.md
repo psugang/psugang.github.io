@@ -16,10 +16,12 @@ order: 4
 - Brindar soporte técnico y resolver problemas relacionados con el hardware de computadoras.
 - Promover la educación y conciencia sobre el hardware de computadoras.
 
+
 # Team
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
 <!-- prettier-ignore-start -->
 <!-- markdownlint-disable -->
+<!--
 <table>
   <tbody>
     <tr>
@@ -64,6 +66,7 @@ order: 4
     </tr>
   </tbody>
 </table>
+-->
 <!-- markdownlint-restore -->
 <!-- prettier-ignore-end -->
 <!-- ALL-CONTRIBUTORS-LIST:END -->
@@ -86,6 +89,8 @@ order: 4
     </tr>
   </tbody>
 </table>
+
+
 <!-- markdownlint-restore -->
 <!-- prettier-ignore-end -->
 <!-- ALL-CONTRIBUTORS-LIST:END -->
