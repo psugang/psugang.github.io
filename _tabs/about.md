@@ -22,6 +22,7 @@ order: 4
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
 <!-- prettier-ignore-start -->
 <!-- markdownlint-disable -->
+<!--
 <table>
   <tbody>
     <tr>
@@ -66,7 +67,7 @@ order: 4
     </tr>
   </tbody>
 </table>
-
+-->
 <!-- markdownlint-restore -->
 <!-- prettier-ignore-end -->
 <!-- ALL-CONTRIBUTORS-LIST:END -->
@@ -75,6 +76,7 @@ order: 4
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
 <!-- prettier-ignore-start -->
 <!-- markdownlint-disable -->
+<!--
 <table>
   <tbody>
     <tr>
@@ -89,6 +91,7 @@ order: 4
     </tr>
   </tbody>
 </table>
+-->
 <!-- markdownlint-restore -->
 <!-- prettier-ignore-end -->
 <!-- ALL-CONTRIBUTORS-LIST:END -->
