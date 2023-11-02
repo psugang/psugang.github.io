@@ -3,29 +3,26 @@
 # Import the theme
 theme: jekyll-theme-chirpy
 
-# Change the following value to '/PROJECT_NAME' ONLY IF your site type is GitHub Pages Project sites
-# and doesn't have a custom domain.
-baseurl: ""
-
 # The language of the webpage › http://www.lingoes.net/en/translator/langcode.htm
 # If it has the same name as one of the files in folder `_data/locales`, the layout language will also be changed,
 # otherwise, the layout language will use the default value of 'en'.
 lang: en
 
-# Change to your timezone › http://www.timezoneconverter.com/cgi-bin/findzone/findzone
-timezone:
+# Change to your timezone › https://kevinnovak.github.io/Time-Zone-Picker
+timezone: America/Mexico_City
 
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
 title: PSU GANG # the main title
 
-tagline: "Hardware lovers" # it will display as the sub-title
+tagline: Hardware lovers # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
   Hardware topics.
 
-# fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
+# Fill in the protocol & hostname for your site.
+# e.g. 'https://username.github.io', note that it does not end with a '/'.
 url: ""
 
 github:
@@ -36,6 +33,7 @@ twitter:
 
 facebook:
   username: PSUG4ng
+
 social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
@@ -43,10 +41,10 @@ social:
   email: # change to your email address
   links:
     # The first element serves as the copyright owner's link
-    #- https://twitter.com/QuantumWavves # change to your twitter homepage
-    - https://github.com/psugang # change to your github homepage
+    - https://twitter.com/username # change to your twitter homepage
+    - https://github.com/username # change to your github homepage
     # Uncomment below to add more social links
-    - https://www.facebook.com/PSUG4ng
+    - https://www.facebook.com/username
     # - https://www.linkedin.com/in/username
 
 google_site_verification: # fill in to your verification string
@@ -56,10 +54,6 @@ google_site_verification: # fill in to your verification string
 
 google_analytics:
   id: # fill in your Google Analytics ID
-  # Google Analytics pageviews report settings
-  pv:
-    proxy_endpoint: # fill in the Google Analytics superProxy endpoint of Google App Engine
-    cache_path: # the local PV cache data, friendly to visitors from GFW region
 
 # Prefer color scheme setting.
 #
@@ -79,10 +73,10 @@ theme_mode: # [light|dark]
 # will be added to all image (site avatar & posts' images) paths starting with '/'
 #
 # e.g. 'https://cdn.com'
-img_cdn:
+#img_cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar: /assets/pfp/profile.webp
+avatar: "/assets/pfp/profile.webp"
 
 # boolean type, the global switch for TOC in posts.
 toc: true
@@ -120,6 +114,9 @@ pwa:
 
 paginate: 10
 
+# The base URL of your site
+baseurl: ""
+
 # ------------ The following options are not recommended to be modified ------------------
 
 kramdown:
@@ -152,7 +149,7 @@ defaults:
   - scope:
       path: _drafts
     values:
-      comments: true #false def
+      comments: false
   - scope:
       path: ""
       type: tabs # see `site.collections`
@@ -183,12 +180,11 @@ compress_html:
 exclude:
   - "*.gem"
   - "*.gemspec"
+  - docs
   - tools
   - README.md
-  - CHANGELOG.md
   - LICENSE
   - rollup.config.js
-  - node_modules
   - package*.json
 
 jekyll-archives:

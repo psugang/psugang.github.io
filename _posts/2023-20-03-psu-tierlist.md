@@ -23,7 +23,7 @@ Representan detalles a tomar en cuenta; los cuales son:</p>
 
 Si ves una fuente sin indicador de Watts o de año, por ejemplo: XPG-  Pylon 
 Significa que TODOS los modelos de esa serie soportan lo mismo, comprar alguna de más Watts no da beneficio o margen de actualización extra.
-Recuerda consultar las listas de Wattages <a href="">aqui</a>
+Recuerda consultar las listas de Wattages.
 
 ## FUENTES TIER S
 ### Sistema recomendado:
@@ -288,7 +288,7 @@ Recuerda consultar las listas de Wattages <a href="">aqui</a>
 - Silverstone
   - SX SFX-L [3]
 - Xpg
-- Pylon
+  - Pylon
 
 ## FUENTES TIER C
 ### Sistema recomendado:
@@ -373,7 +373,7 @@ Recuerda consultar las listas de Wattages <a href="">aqui</a>
   - Smart RGB [3]
   - Smart RGB (230V) [3]
 - Xpg
-- Probe
+  - Probe
 - Xzeal
   - XZ
 - Yaguaret
