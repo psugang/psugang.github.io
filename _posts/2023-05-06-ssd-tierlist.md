@@ -1,6 +1,9 @@
 ---
 title: SSD TIERLIST
 date: 2023-06-05
+image:
+  path: /assets/posts/ssds/ssd-splash.png
+  alt: ssd's splash art
 categories: [TIERLIST, SSD]
 tags: [ssd's, storage]
 authors: [logitg, gamboa]
