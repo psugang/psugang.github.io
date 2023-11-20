@@ -9,7 +9,7 @@ theme: jekyll-theme-chirpy
 lang: en
 
 # Change to your timezone › https://kevinnovak.github.io/Time-Zone-Picker
-timezone: America/Mexico_City
+timezone:
 
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
@@ -19,11 +19,11 @@ title: PSU GANG # the main title
 tagline: Hardware lovers # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
-  Hot Hardware topics.
+  Hardware topics and reviews
 
 # Fill in the protocol & hostname for your site.
 # e.g. 'https://username.github.io', note that it does not end with a '/'.
-url: ""
+url: "https://psugang.github.io"
 
 github:
   username: psugang # change to your github username
@@ -31,20 +31,17 @@ github:
 twitter:
   username: psugang # change to your twitter username
 
-facebook:
-  username: PSUG4ng
-
 social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
-  name: psugang
-  email: # change to your email address
+  name: PSU GANG
+  email: example@domain.com # change to your email address
   links:
     # The first element serves as the copyright owner's link
-    - https://twitter.com/username # change to your twitter homepage
-    - https://github.com/username # change to your github homepage
+    #- https://twitter.com/username # change to your twitter homepage
+    - https://github.com/psugang # change to your github homepage
     # Uncomment below to add more social links
-    - https://www.facebook.com/username
+    # - https://www.facebook.com/username
     # - https://www.linkedin.com/in/username
 
 google_site_verification: # fill in to your verification string
@@ -66,17 +63,17 @@ google_analytics:
 #     light  - Use the light color scheme
 #     dark   - Use the dark color scheme
 #
-theme_mode: dark # [light|dark]
+theme_mode: # [light|dark]
 
 # The CDN endpoint for images.
 # Notice that once it is assigned, the CDN url
 # will be added to all image (site avatar & posts' images) paths starting with '/'
 #
 # e.g. 'https://cdn.com'
-#img_cdn:
+img_cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar: "/assets/pfp/profile.webp"
+avatar: /assets/pfp/icon.png
 
 # boolean type, the global switch for TOC in posts.
 toc: true
