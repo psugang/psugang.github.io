@@ -76,7 +76,7 @@ PIN DESCRIPTION
 | VCC2 | I | Current sense power supply | 
 | V33 | I | 3.3V overlunder voltage input pin |
 | V5 | I | 5V overlunder voltage input pin| 
-| VCC | Power supply |
+| VCC | I | Power supply |
 | PGO| O | Power good output signal pin, open drain output |
 
 ## OTROS COMPONENTES 
