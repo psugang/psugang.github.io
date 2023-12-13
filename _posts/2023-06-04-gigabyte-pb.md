@@ -28,11 +28,11 @@ En este orden se revisarán los siguientes elementos:
 
 La encargada de regular los raíles de la fuente; muchas veces determina el sistema máximo recomendable así como los watts máximos.
 
-![topologia](/assets/posts/gigabyte-pb/sample3.jpg){: w="600" h="400" .center}
+![topologia](/assets/posts/gigabyte/pb/sample3.jpg){: w="600" h="400" .center}
 
 Esto nos muestra que estamos ante una PSU de entrada, la cual vaa tener problemas con componentes de consumo elevado o picos de consumo notables. Ya que como pudieron ver en la guía de regulación en grupo; las 2 bobinas tratan de nivelar la carga entre ambos raíles de 5 y 12v, creando bastante desviación con daños a las VRM a largo plazo. 
 
-![bobina](/assets/posts/gigabyte-pb/bobina.png){: w="600" h="400 .center"} 
+![bobina](/assets/posts/gigabyte/pb/bobina.png){: w="600" h="400 .center"} 
 
 ## CAPACITOR
 
@@ -46,14 +46,14 @@ Denominado en inglés como "Bulk cap" , se encarga de filtrarla corriente y rect
 Esta PSU cuenta con un capacitor de el fabricante TEAPO; a 4O0v,33OuF y rating a 85°C. Especificaciones bastante estándar; considerando que a su precio fuentes a 39OuF y 105°C,y con caps de Nichicon u otros fabricantes con mejores productos. 
 Ya veremos más adelante como afecta a su performance:
 
-![cap](/assets/posts/gigabyte-pb/cap.png){: w="600" h="400 .center"} 
+![cap](/assets/posts/gigabyte/pb/cap.png){: w="600" h="400 .center"} 
 
 ## SUPERVISOR
 El encargado de las protecciones de la fuente;es indispensable que sea eficiente y "rápido", los valores que se ajustan para activar la protección varían entre fabricantes.
 
 A continuación el pinout del supervisor; rescatado desde la hoja de información provista por el mismo fabricante.
 
-![super](/assets/posts/gigabyte-pb/supervisor.png){: w="600" h="400 .center"} 
+![super](/assets/posts/gigabyte/pb/supervisor.png){: w="600" h="400 .center"} 
 
 Como podemos ver es un supervisor acorde a la gama; con parámetros dentro de lo común; sin embargo no cuenta con OTP (Over Temperature Protection) ni con protección ante fallas de ventilador; lo cual es una mala combinación:
 
@@ -85,11 +85,11 @@ Algunas otras características de la PSU antes de pasar al apartado deperformanc
 
 Dentro del resto de piezas se puede ver un intento de la marca por abaratar en costos; por ejemplo en la disipación; la cual es bastante sencilla; la plataforma y demás indican una elección "mediocre" la cual tendrá consecuencias de frente al performance y fiabilidad, sin contar que el precio resultante no es del todo competitivo. 
 
-![global](/assets/posts/gigabyte-pb/global.png)
+![global](/assets/posts/gigabyte/pb/global.png)
 
 También se puede observar una calidad de soldadura bastante promedio; el ventilador promete ser "Fluid dynamic bearing", sin embargo es de `rodamiento de rifle`, y no es precisamente silencioso, principalmente dada la alta curva de ventilación puesta gracias a que le cuesta a los componentes operar con esa disipación.
 
-![fan](/assets/posts/gigabyte-pb/fan.png) 
+![fan](/assets/posts/gigabyte/pb/fan.png) 
 
 ## RENDIMIENTO
 Datos provistos por Cybenetics; solo agregaremos los por menores; pero tendrán un enlace directo a su web.

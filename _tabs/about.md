@@ -38,7 +38,7 @@ order: 4
         <a href="https://www.facebook.com/profile.php?id=100031600464314" title="Facebook contact"><img src="/assets/img/icons/facebook.svg" width="20" height="20"></a>
       </td>
       <td align="center" valign="top" width="14.28%">
-        <img src="/assets/img/team/luis.jpg" width="100px;" alt="LogiTG"><br>
+        <img src="/assets/img/team/logitg.jpg" width="100px;" alt="LogiTG"><br>
         <a href='https://www.facebook.com/LogiTG'><sub><b>LogiTG</b></sub></a><br>
         <a href="https://discordapp.com/users/602364646246318125" title="Discord contact"><img src="/assets/img/icons/discord.svg" width="25" height="25"/></a> 
         <a href="https://www.facebook.com/LogiTG" title="Facebook contact"><img src="/assets/img/icons/facebook.svg" width="20" height="20"/></a>
@@ -50,7 +50,7 @@ order: 4
         <a href="https://www.facebook.com/neiv.0" title="Facebook contact"><img src="/assets/img/icons/facebook.svg" width="20" height="20"/></a>
       </td>
       <td align="center" valign="top" width="14.28%">
-        <img src="/assets/img/team/lalo.jpg" width="100px;" alt="Eduardo"><br>
+        <img src="/assets/img/team/lalo-1-1.jpg" width="100px;" alt="Eduardo"><br>
         <a href='https://www.facebook.com/Lalocomotora7978'><sub><b>Eduardo</b></sub></a><br>
         <a href="https://discordapp.com/users/761383873065517076" title="Discord contact"><img src="/assets/img/icons/discord.svg" width="25" height="25"/></a> 
         <a href="https://www.facebook.com/Lalocomotora7978" title="Facebook contact"><img src="/assets/img/icons/facebook.svg" width="20" height="20"/></a>
@@ -59,9 +59,15 @@ order: 4
     <tr>
       <td align="center" valign="top" width="14.28%">
         <img src="/assets/img/team/monty.jpg" width="100px;" alt="Monty"><br>
-        <a href='https://www.facebook.com/daniel.monty.140'><sub><b>Daniel Monty</b></sub></a><br>
+        <a href='https://www.facebook.com/daniel.monty.140'><sub><b>Monty</b></sub></a><br>
         <a href="https://discordapp.com/users/706278705302994984" title="Discord contact"><img src="/assets/img/icons/discord.svg" width="25" height="25"></a>
         <a href="https://www.facebook.com/daniel.monty.140" title="Facebook contact"><img src="/assets/img/icons/facebook.svg" width="20" height="20"/></a>
+      </td>
+    <td align="center" valign="top" width="14.28%">
+        <img src="/assets/img/team/regarde.png" width="100px;" alt="Monty"><br>
+        <a href='https://www.facebook.com/daniel.monty.140'><sub><b>Regarde</b></sub></a><br>
+        <a href="https://discordapp.com/users/987948011000856636" title="Discord contact"><img src="/assets/img/icons/discord.svg" width="25" height="25"></a>
+        <a href="https://www.facebook.com/oscarr.rv.9" title="Facebook contact"><img src="/assets/img/icons/facebook.svg" width="20" height="20"/></a>
       </td>
     </tr>
   </tbody>
